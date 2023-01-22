@@ -59,7 +59,7 @@ void loop()
       Serial.print(rtc.minute());
       Serial.print(':');
       Serial.println(rtc.second());
-      Serial.print("Special MATE code: yeet?");
+      Serial.print("Special MATE code: yeet?");//needs to be changed later
       delay(1000);
     }
     else
